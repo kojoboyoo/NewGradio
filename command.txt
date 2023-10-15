@@ -1,0 +1,4 @@
+python -m venv nenv
+source C:\Users\etnketiah\Documents\Azubi\New project\GradioLp\newenv\Scripts\activate 
+python -m pip install -q --upgrade pip
+python -m pip install -qr requirements.txt
